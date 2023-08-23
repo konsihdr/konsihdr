@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @konsihdr
+- 👀 I’m interested in Coding, New Tech and Architecture
+- 🌱 I’m currently learning Rust, Python and ITIL
+- 💞️ 
+- 📫 You can find me on
+  - 📧 Mail -> konsi@hdr-it.de
+  - 📲 Matrix -> [@konsi:hdr.chat](https://matrix.to/#/@konsi:hdr.chat)
+  - 🐘 Mastodon -> https://hdr.social/@konsi
