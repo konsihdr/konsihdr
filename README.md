@@ -4,5 +4,4 @@
 - 🚒 firefighting is a way of life
 - 📫 You can find me on
   - 📧 Mail -> konsi@hdr-it.de
-  - 📲 Matrix -> [@konsi:hdr.chat](https://matrix.to/#/@konsi:hdr.chat)
   - 🐘 Mastodon -> https://hdr.social/@konsi
