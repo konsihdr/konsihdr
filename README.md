@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konsihdr
 - 👀 I’m interested in Coding, New Tech and IT-Architecture
-- 🌱 I’m currently learning Rust, Python and ITIL 4
+- 🌱 I’m currently learning Go, Python and ITIL 4
 - 🚒 firefighting is a way of life
 - 📫 You can find me on
   - 📧 Mail -> konsi@hdr-it.de
