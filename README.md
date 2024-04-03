@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @konsihdr
 - 👀 I’m interested in Coding, New Tech and IT-Architecture
-- 🌱 I’m currently learning Go, Python and ITIL 4
-- 🚒 firefighting is a way of life
-- 📫 You can find me on 🐘 Mastodon -> https://hdr.social/@konsi
+- 🌱 I’m currently learning NextJS, React and TypeScript
+- 🌱 ITIL 4 is also on the list :)
+- 🚒 firefighting is a way of life ❤️
